@@ -9,12 +9,25 @@ you'll need to install requirements.txt
 you'll need to setup your own .env file and plug in variable values but the .env file should look like this:
 
 SECRET_KEY=
+
+
 DEBUG=
+
+
 DATABASE_NAME=
+
+
 DATABASE_USER=
+
+
 DATABASE_PASSWORD=
+
+
 DATABASE_HOST=
+
+
 DATABASE_PORT=
+
 
 you can generate a new "SECRET_KEY" from the command line:
 - `python` enter 
